@@ -1,0 +1,249 @@
+---------------
+Label:  0
+
+Events:
+viewed_client :: 7222
+
+URLs:
+https://mma.useindio.com/ :: 394
+https://tiadvisors.useindio.com/ :: 352
+https://psf.useindio.com/ :: 242
+https://csm.useindio.com/ :: 239
+https://silverstone.useindio.com/ :: 224
+https://heffernan.useindio.com/ :: 213
+https://tricor.useindio.com/ :: 211
+https://kapnick.useindio.com/ :: 206
+https://wsawyer.useindio.com/ :: 200
+https://ansay.useindio.com/ :: 148
+
+IPs:
+12.125.204.222 :: 412
+12.118.187.74 :: 371
+199.44.61.252 :: 348
+205.156.136.229 :: 285
+207.114.235.194 :: 241
+216.58.231.66 :: 220
+216.105.53.30 :: 206
+12.10.94.220 :: 163
+67.51.177.131 :: 148
+205.197.245.194 :: 141
+
+User Agents:
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 :: 390
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; rv:11.0) like Gecko :: 354
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 :: 352
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 :: 297
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; Zoom 3.6.0; rv:11.0) like Gecko :: 278
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 :: 274
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 :: 267
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 :: 235
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; rv:11.0) like Gecko :: 231
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 :: 218
+
+
+---------------
+Label:  1
+
+Events:
+indio_sign_added_field :: 2467
+logged_in :: 1763
+forms_hidden_block_toggled :: 959
+forms_required_field_toggled :: 799
+viewed_error_message :: 794
+submissions_application_added :: 769
+indio_sign_signature_request_completed :: 687
+submissions_submission_changed :: 603
+schedules_column_visibility_toggled :: 600
+schedules_column_width_edited :: 539
+
+URLs:
+https://mma.useindio.com/ :: 1269
+https://tiadvisors.useindio.com/ :: 770
+https://kapnick.useindio.com/ :: 673
+https://tricor.useindio.com/ :: 612
+https://ansay.useindio.com/ :: 611
+https://csm.useindio.com/ :: 515
+https://bouchard.useindio.com/ :: 443
+https://epg.useindio.com/ :: 414
+https://barron.useindio.com/ :: 408
+https://silverstone.useindio.com/ :: 367
+
+IPs:
+205.156.136.229 :: 808
+12.118.187.74 :: 777
+199.44.61.252 :: 756
+216.105.53.30 :: 638
+12.125.204.222 :: 583
+205.197.245.194 :: 405
+72.240.12.13 :: 403
+184.185.175.114 :: 368
+67.51.177.131 :: 326
+216.58.231.66 :: 322
+
+User Agents:
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 :: 989
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; rv:11.0) like Gecko :: 894
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362 :: 879
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; Zoom 3.6.0; rv:11.0) like Gecko :: 849
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 :: 715
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 :: 630
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 :: 593
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 :: 582
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; rv:11.0) like Gecko :: 568
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 :: 542
+
+
+---------------
+Label:  2
+
+Events:
+indio_sign_added_field :: 1206
+forms_required_field_toggled :: 889
+forms_hidden_block_toggled :: 523
+logged_in :: 499
+viewed_error_message :: 496
+submissions_application_added :: 395
+forms_hidden_field_toggled :: 289
+submissions_submission_changed :: 261
+submissions_entity_added :: 241
+indio_sign_signature_request_completed :: 223
+
+URLs:
+https://sihle.useindio.com/ :: 758
+https://ansay.useindio.com/ :: 748
+https://heffernan.useindio.com/ :: 604
+https://golsanscruggs.useindio.com/ :: 382
+https://test.useindio.com/ :: 295
+https://sig.useindio.com/ :: 260
+https://bbnca.useindio.com/ :: 239
+https://harden.useindio.com/ :: 169
+https://gallagher.useindio.com/ :: 166
+https://bolton.useindio.com/ :: 161
+
+IPs:
+209.16.116.126 :: 653
+209.79.152.104 :: 493
+173.164.123.182 :: 377
+12.188.252.66 :: 284
+50.193.16.165 :: 214
+199.116.132.77 :: 159
+206.169.79.34 :: 157
+24.106.26.18 :: 154
+12.125.204.222 :: 143
+68.191.194.227 :: 131
+
+User Agents:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 :: 8120
+
+
+---------------
+Label:  3
+
+Events:
+forms_required_field_toggled :: 1583
+indio_sign_added_field :: 678
+submissions_application_added :: 312
+schedules_column_visibility_toggled :: 285
+logged_in :: 267
+forms_hidden_block_toggled :: 264
+viewed_error_message :: 246
+forms_hidden_field_toggled :: 164
+submissions_submission_changed :: 154
+client_portal_link_copied :: 154
+
+URLs:
+https://heffernan.useindio.com/ :: 1434
+https://ansay.useindio.com/ :: 598
+https://morrisgarritano.useindio.com/ :: 474
+https://sihle.useindio.com/ :: 373
+https://bbnca.useindio.com/ :: 310
+https://test.useindio.com/ :: 196
+https://jkj.useindio.com/ :: 143
+https://csm.useindio.com/ :: 143
+https://aht.useindio.com/ :: 134
+https://spectrum.useindio.com/ :: 104
+
+IPs:
+209.79.152.103 :: 1373
+209.16.116.126 :: 298
+209.203.114.166 :: 291
+24.106.26.18 :: 281
+50.193.16.165 :: 251
+12.118.187.74 :: 174
+12.188.252.66 :: 169
+75.151.166.154 :: 143
+35.130.73.138 :: 104
+24.123.91.122 :: 102
+
+User Agents:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 :: 6073
+
+
+---------------
+Label:  4
+
+Events:
+viewed_client :: 2942
+
+URLs:
+https://ansay.useindio.com/ :: 296
+https://gallagher.useindio.com/ :: 185
+https://sihle.useindio.com/ :: 164
+https://colony-west.useindio.com/ :: 132
+https://bolton.useindio.com/ :: 114
+https://bbnca.useindio.com/ :: 106
+https://golsanscruggs.useindio.com/ :: 102
+https://nfis.useindio.com/ :: 94
+https://sig.useindio.com/ :: 72
+https://heffernan.useindio.com/ :: 66
+
+IPs:
+209.16.116.126 :: 156
+206.169.79.34 :: 114
+187.243.253.98 :: 109
+173.164.123.182 :: 102
+12.188.252.66 :: 101
+50.193.16.165 :: 98
+47.156.28.67 :: 88
+151.147.160.18 :: 78
+24.106.26.18 :: 77
+151.147.160.16 :: 61
+
+User Agents:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 :: 2942
+
+
+---------------
+Label:  5
+
+Events:
+viewed_client :: 2092
+
+URLs:
+https://ansay.useindio.com/ :: 266
+https://morrisgarritano.useindio.com/ :: 163
+https://aht.useindio.com/ :: 139
+https://heffernan.useindio.com/ :: 116
+https://sihle.useindio.com/ :: 115
+https://bbnca.useindio.com/ :: 101
+https://colony-west.useindio.com/ :: 89
+https://csm.useindio.com/ :: 66
+https://gallagher.useindio.com/ :: 63
+https://lawley.useindio.com/ :: 55
+
+IPs:
+24.106.26.18 :: 134
+209.203.114.166 :: 99
+50.193.16.165 :: 88
+187.243.253.98 :: 88
+12.188.252.66 :: 86
+209.16.116.126 :: 83
+12.118.187.74 :: 82
+38.100.225.154 :: 70
+209.79.152.103 :: 67
+50.204.77.165 :: 55
+
+User Agents:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 :: 2092
+
+
